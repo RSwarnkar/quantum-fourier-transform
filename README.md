@@ -2,7 +2,7 @@
 Writing QFT and Inverse QFT Matrices manually can be Boring And computing by using pen-paper could be time consuming. 
 This repo contains notebooks that make this easy. 
 
-#### Use the notebooks to render nice `LaTeX`  matrices for `numpy` matrices!!
+## Use the notebooks to render nice `LaTeX`  matrices for `numpy` matrices!!
 
 ### Example-1: 
 
