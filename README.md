@@ -1,5 +1,8 @@
 # Quantum Fourier Transform (QFT) 
-Writing QFT matrix manually can be Boring And computing by using pen-paper could be time consuming. This repo contains notebooks that make this easy. 
+Writing QFT and Inverse QFT Matrices manually can be Boring And computing by using pen-paper could be time consuming. 
+This repo contains notebooks that make this easy. 
+
+## Use the notebooks to render nice `LaTeX`  matrices for `numpy` matrices!!
 
 ### Example-1: 
 
@@ -12,3 +15,7 @@ Writing QFT matrix manually can be Boring And computing by using pen-paper could
 ### Example-3:
 
 ![image](https://user-images.githubusercontent.com/24961188/200297253-41849b36-6aa9-4937-b0c5-9e25ed3e7820.png)
+
+### Example-4:
+
+![image](https://user-images.githubusercontent.com/24961188/200891271-8bfbe7b3-cbd1-42e8-9e5d-5b27b070521f.png)
