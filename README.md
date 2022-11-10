@@ -19,3 +19,8 @@ This repo contains notebooks that make this easy.
 ### Example-4:
 
 ![image](https://user-images.githubusercontent.com/24961188/200891271-8bfbe7b3-cbd1-42e8-9e5d-5b27b070521f.png)
+
+
+## Kronecker Factor of QFT of Statevector:
+
+![image](https://user-images.githubusercontent.com/24961188/201057082-4ba5b957-36b2-4a99-833e-956e86b438d8.png)
